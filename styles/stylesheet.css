@@ -118,3 +118,8 @@ ul {
 .medioImg {
     max-height: 40px;
 }
+
+/* Productos */
+.informacionProductos {
+    text-align: center;
+}
